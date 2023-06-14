@@ -44,6 +44,12 @@ composer install
 php artisan migrate
 ```
 
+- Run npm
+~~~
+npm run dev
+~~~
+
+
 -   Finally run
 
 ```
